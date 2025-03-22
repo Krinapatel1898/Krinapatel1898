@@ -1,8 +1,5 @@
 # Hi, I'm Krina Patel
 
-## I'm an Full Stack Developer
-## I have over 3 years of expereince.
-
 # 💫 About Me:
 🔭 Currently working on: Building scalable web applications using C#, .NET, and Angular, while exploring React Native.<br>🤝 Looking to collaborate on: Projects that involve cross-functional teamwork, especially with business development teams in product-based companies.<br>💬 Looking for help with: Mastering advanced concepts in React Native and optimizing CI/CD pipelines.<br>🌱 Currently learning: Deepening my understanding of mobile app development and cloud services like AWS.<br>🗨️ Ask me about: Full Stack development, API design, database management, and Agile best practices.<br>⚡ Fun fact: I love team sports, which inspires my passion for collaboration and delivering impactful solutions.
 
